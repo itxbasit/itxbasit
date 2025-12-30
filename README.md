@@ -1,6 +1,6 @@
 👋 Hello, World! I'm Abdul Basit Arif
 
-🚀 A Fullstack Developer on a mission to build powerful, user-centric applications that solve real-world problems. I'm always curious, always learning, and always pushing the boundaries of what's possible in tech.
+🚀 A Fullstack Engineer on a mission to build powerful, user-centric applications that solve real-world problems. I'm always curious, always learning, and always pushing the boundaries of what's possible in tech.
 
 🛠️ Tech Toolbox
 
